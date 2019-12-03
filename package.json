@@ -1,0 +1,21 @@
+{
+  "name": "botkit-react",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwhite/botkit-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajwhite/botkit-react/issues"
+  },
+  "homepage": "https://github.com/ajwhite/botkit-react#readme",
+  "workspaces": ["examples", "packages"]
+}
