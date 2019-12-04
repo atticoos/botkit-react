@@ -1,7 +1,7 @@
 # botkit-react
 
 ```
-npm install @babel/plugin-botkit-react
+npm install botkit-react babel-plugin-botkit-react
 ```
 
 ```js
